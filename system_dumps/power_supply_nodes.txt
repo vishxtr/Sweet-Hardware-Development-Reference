@@ -1,0 +1,11 @@
+total 0
+drwxr-xr-x   2 root root 0 1970-01-22 11:52 .
+drwxr-xr-x 109 root root 0 1970-01-22 11:52 ..
+lrwxrwxrwx   1 root root 0 2026-10-30 18:47 batt_verify -> ../../devices/platform/soc/soc:maxim_ds28e16/power_supply/batt_verify
+lrwxrwxrwx   1 root root 0 2026-10-30 18:47 battery -> ../../devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-00/c440000.qcom,spmi:qcom,pm6150@0:qcom,qpnp-smb5/power_supply/battery
+lrwxrwxrwx   1 root root 0 2026-10-30 18:47 bms -> ../../devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-00/c440000.qcom,spmi:qcom,pm6150@0:qpnp,qg/power_supply/bms
+lrwxrwxrwx   1 root root 0 2026-10-30 18:47 bq2597x-standalone -> ../../devices/platform/soc/a8c000.i2c/i2c-2/2-0051/power_supply/bq2597x-standalone
+lrwxrwxrwx   1 root root 0 2026-10-30 18:47 dc -> ../../devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-00/c440000.qcom,spmi:qcom,pm6150@0:qcom,qpnp-smb5/power_supply/dc
+lrwxrwxrwx   1 root root 0 2026-10-30 18:47 main -> ../../devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-00/c440000.qcom,spmi:qcom,pm6150@0:qcom,qpnp-smb5/power_supply/main
+lrwxrwxrwx   1 root root 0 2026-10-30 18:47 pc_port -> ../../devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-00/c440000.qcom,spmi:qcom,pm6150@0:qcom,qpnp-smb5/power_supply/pc_port
+lrwxrwxrwx   1 root root 0 2026-10-30 18:47 usb -> ../../devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-00/c440000.qcom,spmi:qcom,pm6150@0:qcom,qpnp-smb5/power_supply/usb

@@ -1,0 +1,10 @@
+{
+  "magic": "0xd7b7ab1e (DT_TABLE_MAGIC)",
+  "total_size": 268344,
+  "header_size": 32,
+  "dt_entry_size": 32,
+  "dt_entry_count": 1,
+  "dt_entries_offset": 32,
+  "page_size": 4096,
+  "version": 0
+}

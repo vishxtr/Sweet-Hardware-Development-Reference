@@ -1,0 +1,16 @@
+{
+  "magic": "ANDROID!",
+  "kernel_size": 18193719,
+  "ramdisk_size": 1476473,
+  "second_size": 0,
+  "page_size": 4096,
+  "header_version": 2,
+  "os_version_raw": 536871338,
+  "name": "",
+  "cmdline": "console=ttyMSM0,115200n8 earlycon=msm_geni_serial,0x880000 androidboot.hardware=qcom androidboot.console=ttyMSM0 service_locator.enable=1 lpm_levels.sleep_disabled=0 loop.max_part=7 q\t\u001aE4U\\n\u0003\bi",
+  "recovery_dtbo_size": 0,
+  "recovery_dtbo_offset": 0,
+  "header_size": 0,
+  "dtb_size": 0,
+  "dtb_addr": 0
+}

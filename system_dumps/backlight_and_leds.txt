@@ -1,0 +1,21 @@
+/sys/class/backlight:
+total 0
+drwxr-xr-x   2 root root 0 1970-01-22 11:52 .
+drwxr-xr-x 109 root root 0 1970-01-22 11:52 ..
+lrwxrwxrwx   1 root root 0 2026-10-30 18:47 panel0-backlight -> ../../devices/platform/soc/ae00000.qcom,mdss_mdp/backlight/panel0-backlight
+
+/sys/class/leds:
+total 0
+drwxr-xr-x   2 root root 0 2026-10-30 20:41 .
+drwxr-xr-x 109 root root 0 1970-01-22 11:52 ..
+lrwxrwxrwx   1 root root 0 2026-10-30 23:04 blue -> ../../devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-05/c440000.qcom,spmi:qcom,pm6150l@5:qcom,leds@d000/leds/blue
+lrwxrwxrwx   1 root root 0 2026-10-30 23:04 green -> ../../devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-05/c440000.qcom,spmi:qcom,pm6150l@5:qcom,leds@d000/leds/green
+lrwxrwxrwx   1 root root 0 2026-10-30 23:04 led:flash_0 -> ../../devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-05/c440000.qcom,spmi:qcom,pm6150l@5:qcom,leds@d300/leds/led:flash_0
+lrwxrwxrwx   1 root root 0 2026-10-30 23:04 led:flash_1 -> ../../devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-05/c440000.qcom,spmi:qcom,pm6150l@5:qcom,leds@d300/leds/led:flash_1
+lrwxrwxrwx   1 root root 0 2026-10-30 23:04 led:switch_0 -> ../../devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-05/c440000.qcom,spmi:qcom,pm6150l@5:qcom,leds@d300/leds/led:switch_0
+lrwxrwxrwx   1 root root 0 2026-10-30 23:04 led:switch_1 -> ../../devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-05/c440000.qcom,spmi:qcom,pm6150l@5:qcom,leds@d300/leds/led:switch_1
+lrwxrwxrwx   1 root root 0 2026-10-30 23:04 led:switch_2 -> ../../devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-05/c440000.qcom,spmi:qcom,pm6150l@5:qcom,leds@d300/leds/led:switch_2
+lrwxrwxrwx   1 root root 0 2026-10-30 23:04 led:torch_0 -> ../../devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-05/c440000.qcom,spmi:qcom,pm6150l@5:qcom,leds@d300/leds/led:torch_0
+lrwxrwxrwx   1 root root 0 2026-10-30 23:04 led:torch_1 -> ../../devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-05/c440000.qcom,spmi:qcom,pm6150l@5:qcom,leds@d300/leds/led:torch_1
+lrwxrwxrwx   1 root root 0 2026-10-30 23:04 mmc0:: -> ../../devices/platform/soc/8804000.sdhci/leds/mmc0::
+lrwxrwxrwx   1 root root 0 2026-10-30 23:04 red -> ../../devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-05/c440000.qcom,spmi:qcom,pm6150l@5:qcom,leds@d000/leds/red
